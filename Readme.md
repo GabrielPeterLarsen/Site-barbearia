@@ -1,0 +1,1 @@
+Exercicio de fixação utilizando conceitos basicos de HTML e CSS para criação de site de uma barbearia.
